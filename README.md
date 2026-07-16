@@ -13,10 +13,9 @@ I build scalable data pipelines using SQL, Python, Spark, Airflow, Kafka, Databr
 - Azure
 - AWS
 - GCP
+- Kubernetes
 
-## 📈 Experience
-- Built data pipelines processing 1TB/day.
-- Reduced ETL runtime by 40%.
+
 
 ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/ajayp7
