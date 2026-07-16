@@ -1,16 +1,18 @@
 # Hi, I'm Ajay 👋
 
-## Data Engineer | Data Engineering | Cloud
+## Data Engineering | Machine Learning | GenAI and Agentic AI | AI Data Platforms and Infrastructure
 
-I build scalable data pipelines using Python, Spark, Kafka, and AWS.
+I build scalable data pipelines using SQL, Python, Spark, Airflow, Kafka, Databricks, Azure, GCP and AWS.
 
 ## 🚀 Skills
-- Python
 - SQL
+- Python
 - Apache Spark
 - Kafka
 - Airflow
+- Azure
 - AWS
+- GCP
 
 ## 📈 Experience
 - Built data pipelines processing 1TB/day.
