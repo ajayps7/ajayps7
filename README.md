@@ -1,4 +1,3 @@
-## Hi there 👋
 # Hi, I'm Ajay 👋
 
 ## Data Engineer | Data Engineering | Cloud
@@ -16,7 +15,6 @@ I build scalable data pipelines using Python, Spark, Kafka, and AWS.
 ## 📈 Experience
 - Built data pipelines processing 1TB/day.
 - Reduced ETL runtime by 40%.
-- Led a team of 5 engineers.
 
 ## 📫 Connect with me
 - LinkedIn: https://linkedin.com/in/ajayp7
