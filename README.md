@@ -1,5 +1,5 @@
 ## Hi there 👋
-# Hi, I'm John Smith 👋
+# Hi, I'm Ajay 👋
 
 ## Data Engineer | Data Engineering | Cloud
 
