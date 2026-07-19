@@ -18,7 +18,10 @@ I build scalable data pipelines using SQL, Python, Spark, Airflow, Kafka, Databr
 
 
 ## 📫 Connect with me
+- Email : ajay0457@gmail.com
+- LinkedIn : https://linkedin.com/in/ajayp7
 - Portfolio : https://github.com/ajayps7
+ 
 <!--
 **ajayps7/ajayps7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
