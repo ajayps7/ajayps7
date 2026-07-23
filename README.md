@@ -18,7 +18,6 @@ I build scalable data pipelines using SQL, Python, Spark, Airflow, Kafka, Databr
 
 
 ## 📫 Connect with me
-- LinkedIn : https://linkedin.com/in/ajayp7
 - Portfolio : https://github.com/ajayps7
  
 <!--
